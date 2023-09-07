@@ -1,0 +1,81 @@
+1] What are the primitive data types in most programming languages?
+--> Integer, String, Boolean, Float, Complex are primitive datatypes.
+
+2] Explain the difference between integers and floating-point numbers?
+-->integers are whole numbers whereas floating point numbers are numbers with decimal values 
+
+3] What is the purpose of a boolean data type, and how is it typically used?
+-->Boolean data types can be used to store the values true and false in a database.
+
+4] Describe the concept of type casting or type conversion.
+-->type casting refers to conversion of one datatype to another datatype either by the coder or automatically by python.
+
+5] What are the limitations of integer data types in terms of range and precision?
+-->The INTEGER data type stores whole numbers that range from -2,147,483,647 to 2,147,483,647 for 9 or 10 digits of precision.
+   The number 2,147,483,648 is a reserved value and cannot be used.
+
+6] Differentiate between unary, binary, and ternary operators with examples.
+-->Unary : A unary operator is an operator, which operates on one operand.
+   Binary : A binary operator is an operator, which operates on two operands.
+   Ternary : A ternary operator is an operator, which operates on three operands.
+
+7] Explain the difference between the '==' and '===' operators (or equivalent in your programming language).
+--> = is a assignment operator 
+    == is a comparision operator
+
+8] How does the modulus (%) operator work, and what are its common use cases?
+--> modulus operator % is used to find out the remainder of an integer or floating point numbers.
+
+9] What is short-circuiting in logical operators, and why is it important?
+--> Short circuiting means the second operator will not be checked if the first operator decides the final outcome.
+
+10] Describe the difference between the postfix (x++) and prefix (++x) increment operators.
+-->If you use the ++ operator as a prefix like: ++var , the value of var is incremented by 1;
+   then it returns the value. If you use the ++ operator as a postfix like: var++ ,
+   the original value of var is returned first; then var is incremented by 1.
+
+11] What are conditional statements, and why are they important in programming?
+--> conditional statements are written to instruct the computer give an output if and only if the stated condition is fulfilled.
+
+12]Compare and contrast 'if', 'else if', and 'else' statements
+-->if, elif, else are used to state conditional statements 
+   if is compulsory statements to write a conditional statement
+   elif and else are optional statements and one of them is executed when the condition above above does not fulfill.
+
+13]Explain the purpose of a switch-case statement and provide an example.
+-->The switch statement is used to test the equality of a variable against several values specified in the test cases.it is kind 
+of  an if else elif ladder.
+
+14] What is the ternary conditional operator, and how is it used?
+-->The Python ternary operator (or conditional operator), tests if a condition is true or false and, depending on the outcome, 
+   returns the corresponding value — all in just one line of code.
+
+15] What is a function, and why is it important in programming?
+--> function keyword is used to define a whole custom function and this function can be used later in the code.
+
+16]Explain the difference between function parameters and arguments.
+-->The values that are declared within a function when the function is called are known as an argument. 
+   The variables that are defined when the function is declared are known as parameters.
+
+17] What is the return statement, and how does it work in functions?
+-->A return statement ends the execution of a function
+
+18] Discuss the concept of function overloading or polymorphism (if applicable in your programming language).
+-->the concept of overloading or ploymorphism is about the usage of particular operator or an entity changes with respect to an object
+
+19] How do you declare and define a recursive function, and what are the potential pitfalls to watch out for?
+-->A Recursive function can be defined as a routine that calls itself directly or indirectly which leads to a lot of memory utilisation.
+
+20] What is the purpose of a 'for' loop, and how does it differ from a 'while' loop?
+-->For loop is used when the number of iterations is already known.
+    While loop is used when the number of iterations is already Unknown
+
+
+
+
+
+
+
+
+
+
